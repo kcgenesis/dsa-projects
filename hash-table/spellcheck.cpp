@@ -41,13 +41,6 @@ vector<string> &split(const string &s, vector<int*> &range, vector<string> &elem
 	return elems;
 }
 
-
-
-
-
-
-
-
 int main(){
 	hashTable d;
 	ifstream file1;

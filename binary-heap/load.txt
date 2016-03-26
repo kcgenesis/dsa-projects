@@ -1,0 +1,35 @@
+//automated insert
+//
+//0 = construct
+//1 = insert
+//2 = setkey
+//3 = remove
+//4 = deleteMin
+//5 = goodbye
+
+1 ab 16
+1 cd 99
+1 bc 14
+4
+1 bc 14
+4
+1 cd 12
+1 de 10
+1 ef 8
+1 fg 6
+1 gh 4
+1 hi 2
+1 ij 18
+4
+3 gh
+3 ij
+2 ef 88
+1 dumble 66
+1 hermione 69
+1 ron 77
+1 harry 50
+2 cd 1
+4
+4
+4
+5
